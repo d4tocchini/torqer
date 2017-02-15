@@ -1,0 +1,2 @@
+#!/bin/sh
+HOME=/home/torqer privoxy --no-daemon --user torqer /opt/torqer/privoxy/config

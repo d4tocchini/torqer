@@ -1,0 +1,2 @@
+#!/bin/sh
+HOME=/home/torqer tor -f /opt/torqer/tor/torrc

@@ -1,0 +1,11 @@
+SOCKSPort 0.0.0.0:9050
+DNSPort 0.0.0.0:53
+
+Log notice stdout
+RunAsDaemon 0
+User torqer
+SafeLogging 1
+AvoidDiskWrites 1
+HardwareAccel 1
+ClientOnly 1
+WarnUnsafeSocks 1
